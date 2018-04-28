@@ -1,6 +1,6 @@
 # Psych
 Technology Used: RMI (Distributed Application) 
-DEscription:
+Description:
 The players are supposed to enter the game by inputting their name through the console. 
 A set of questions are stored at the server. 
 Each client is asked the same randomly chosen question selected from the server. 
